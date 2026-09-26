@@ -1,3 +1,5 @@
+<p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
+
 <p align="center"><img src="assets/mail-change.png" alt="Strażnik portfela ETF - mail z decyzją" width="700"/></p>
 
 <h1 align="center">Strażnik portfela ETF</h1>
