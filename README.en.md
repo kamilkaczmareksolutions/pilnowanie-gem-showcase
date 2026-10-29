@@ -1,6 +1,11 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
+<p align="center"><img src="docs/demo.gif" alt="ETF Portfolio Watchdog - decision email - demo" width="700"/></p>
+<p align="center"><sub>Screenshot walkthrough (code is private)</sub></p>
+
+<!-- Previous hero (backup, static):
 <p align="center"><img src="assets/mail-change.png" alt="ETF Portfolio Watchdog - decision email" width="700"/></p>
+-->
 
 <h1 align="center">ETF Portfolio Watchdog</h1>
 
