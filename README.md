@@ -1,11 +1,6 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
-<p align="center"><img src="docs/demo.gif" alt="Strażnik portfela ETF - mail z decyzją - demo" width="700"/></p>
-<p align="center"><sub>Pokaz zrzutów ekranu (makieta/zrzuty z działającego systemu, kod prywatny)</sub></p>
-
-<!-- Poprzednie hero (backup, statyczne):
 <p align="center"><img src="assets/mail-change.png" alt="Strażnik portfela ETF - mail z decyzją" width="700"/></p>
--->
 
 <h1 align="center">Strażnik portfela ETF</h1>
 
